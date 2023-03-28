@@ -1,0 +1,10 @@
+CONSIDERE:
+RP: Ribeirão Preto
+F: França
+
+A = Carro de RP a F (110km/h, em 1 hora percorre 110km)
+B = Caminhão de F a RP (80km/h, em 1 hora percorre 80km)
+
+Pela lógica A se desloca mais que B utilizando o mesmo tempo, quando A e B
+se cruzarem A estará mais próximo da F e distante de RB. B estará mais próximo
+de RB e mais distante da F.
